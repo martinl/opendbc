@@ -294,7 +294,8 @@ BO_ 292 ES_LKAS_2: 8 XXX
  SG_ CHECKSUM : 0|8@1+ (1,0) [0|1] "" XXX
  SG_ COUNTER : 8|4@1+ (1,0) [0|1] "" XXX
  SG_ LKAS_Output : 40|17@1- (1,0) [0|1] "" XXX
- SG_ NEW_SIGNAL_3 : 12|1@0+ (1,0) [0|1] "" XXX
+ SG_ SET_1 : 12|1@1+ (1,0) [0|1] "" XXX
+ SG_ SET_3 : 60|2@1+ (1,0) [0|1] "" XXX
 
 BO_ 282 NEW_MSG_1: 8 XXX
  SG_ STEER_ANGLE : 24|17@1- (1,0) [0|1] "" XXX
