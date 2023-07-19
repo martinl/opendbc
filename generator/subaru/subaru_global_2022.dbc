@@ -53,13 +53,6 @@ BO_ 576 CruiseControl: 8 XXX
  SG_ Cruise_Activated : 41|1@1+ (1,0) [0|1] "" XXX
  SG_ Signal2 : 42|22@1+ (1,0) [0|4194303] "" XXX
 
-BO_ 292 ES_LKAS_2: 8 XXX
- SG_ CHECKSUM : 0|8@1+ (1,0) [0|1] "" XXX
- SG_ COUNTER : 8|4@1+ (1,0) [0|1] "" XXX
- SG_ LKAS_Request : 12|1@1+ (1,0) [0|1] "" XXX
- SG_ LKAS_Output : 40|17@1- (-1,0) [0|1] "" XXX
- SG_ SET_3 : 60|2@1+ (1,0) [0|1] "" XXX
-
 BO_ 282 EPS_LKAS: 8 XXX
  SG_ CHECKSUM : 0|8@1+ (1,0) [0|1] "" XXX
  SG_ COUNTER : 8|4@1+ (1,0) [0|1] "" XXX
