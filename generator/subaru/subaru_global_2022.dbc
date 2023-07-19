@@ -53,12 +53,6 @@ BO_ 576 CruiseControl: 8 XXX
  SG_ Cruise_Activated : 41|1@1+ (1,0) [0|1] "" XXX
  SG_ Signal2 : 42|22@1+ (1,0) [0|4194303] "" XXX
 
-BO_ 282 EPS_LKAS: 8 XXX
- SG_ CHECKSUM : 0|8@1+ (1,0) [0|1] "" XXX
- SG_ COUNTER : 8|4@1+ (1,0) [0|1] "" XXX
- SG_ LKAS_OUTPUT_SENSOR_1 : 24|17@1- (1,0) [0|1] "" XXX
- SG_ LKAS_OUTPUT_SENSOR_2 : 47|17@1- (1,0) [0|1] "" XXX
-
 CM_ SG_ 545 Cruise_Throttle "RPM-like output signal";
 CM_ SG_ 545 Cruise_EPB "1 = Electric Parking Brake set";
 CM_ SG_ 545 Distance_Swap "Switch from Close to Far distance";
