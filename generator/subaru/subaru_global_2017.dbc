@@ -45,6 +45,14 @@ BO_ 546 ES_Status: 8 XXX
  SG_ Cruise_Hold : 31|1@1+ (1,0) [0|1] "" XXX
  SG_ Signal3 : 32|32@1+ (1,0) [0|1] "" XXX
 
+BO_ 552 BSD_RCTA: 8 XXX
+ SG_ CHECKSUM : 0|8@1+ (1,0) [0|255] "" XXX
+ SG_ COUNTER : 8|4@1+ (1,0) [0|15] "" XXX
+ SG_ R_ADJACENT : 48|1@1+ (1,0) [0|1] "" XXX
+ SG_ L_ADJACENT : 49|1@1+ (1,0) [0|1] "" XXX
+ SG_ R_APPROACHING : 58|1@1+ (1,0) [0|1] "" XXX
+ SG_ L_APPROACHING : 59|1@1+ (1,0) [0|1] "" XXX
+
 BO_ 576 CruiseControl: 8 XXX
  SG_ CHECKSUM : 0|8@1+ (1,0) [0|255] "" XXX
  SG_ COUNTER : 8|4@1+ (1,0) [0|15] "" XXX
